@@ -7,7 +7,7 @@
 
 Tampilan google colab seperti ini 
 
-![google colab](images/google_colab.PNG)
+![google colab](google_colab.PNG)
 
 2. Silahkan download [Anaconda](https://anaconda.com/download). Install sesuai dengan sistem operasi masing - masing. Setelah itu clone / download repositori ini ke folder kalian inginkan.
 
@@ -25,7 +25,7 @@ $ anaconda-navigator
 
 Tampilan Anaconda Navigator akan seperti ini.
 
-![Anaconda Navigator](images/anaconda_navigator.PNG)
+![Anaconda Navigator](anaconda_navigator.PNG)
 
 Silahkan launch jupyter lab / jupyter notebook kemudian navigasi ke folder yang telah kalian simpan.
 
@@ -61,10 +61,10 @@ Kemudian navigasi ke folder yang telah kalian simpan.
 
 ## Tampilan Jupyter-lab
 
-![jupyter-notebook](images/jupyter_lab.PNG)
+![jupyter-notebook](jupyter_lab.PNG)
 
 ## Tampilan Jupyter Notebook
-![jupyter-notebook](images/jupyter_notebook.PNG)
+![jupyter-notebook](jupyter_notebook.PNG)
 
 ## Inspirasi
 
